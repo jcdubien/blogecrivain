@@ -1,6 +1,7 @@
 function alerterUtilisateur() {
 	console.log('Bienvvenue');
-
+	document.queryselector('poule'){
+		
 
 }
 
